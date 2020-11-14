@@ -1,0 +1,16 @@
+{
+  "name": "js-tdd-starter",
+  "version": "1.0.0",
+  "description": "A super-simple starter repo to practice some TDD in JavaScript.",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Dragiša Spasojević",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
